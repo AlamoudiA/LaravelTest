@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello world for the 9000001th time</div>
+                <div class="title">This is a merge conflict</div>
             </div>
         </div>
     </body>
