@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">This is a merge conflict</div>
+                <div class="title"> {!! $name !!} </div>
             </div>
         </div>
     </body>
